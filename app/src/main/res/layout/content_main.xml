@@ -15,5 +15,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="New Hello World!"
+        android:singleLine="false" />
 </RelativeLayout>
